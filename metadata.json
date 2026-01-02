@@ -1,0 +1,9 @@
+{
+  "name": "SyncStream AI",
+  "description": "Minimalist screen sharing application with real-time AI screen analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
